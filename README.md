@@ -17,6 +17,23 @@
 
 모든 과정을 티스토리 블로그에 공유한다.
 210308:환경설정
+210309:환경설정
+
+
+개발환경:
+1) Back-End
+  - Language: JAVA jdk-11.0.10
+  - FrameWork: Spring, mybatis
+  - Server: Apache Tomcat9.0
+  - IDE: STS3(Eclipse)
+  - Database:
+
+2) Front-End
+  - Language: Javascript, HTML5, CSS3
+
+
+
+
 
 
 1. REST API의 Best practice
