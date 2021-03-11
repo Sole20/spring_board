@@ -26,7 +26,7 @@
   - FrameWork: Spring, mybatis
   - Server: Apache Tomcat9.0
   - IDE: STS3(Eclipse)
-  - Database:
+  - Database: mySQL
 
 2) Front-End
   - Language: Javascript, HTML5, CSS3
